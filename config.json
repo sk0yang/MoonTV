@@ -8,14 +8,18 @@
     },
       "subo": {
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "速播采集"
+      "name": "速播采集",
+      "detail": "https://subocaiji.com"
     },
      "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "点播资源"
+      "name": "百度云资源",
+      "detail": "https://api.apibdzy.com"
+      },   
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "name": "如意资源",
+      "detail": "https://cj.rycjapi.com"
     },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -24,23 +28,23 @@
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
-    },
-     "jszy": {
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "name": "极速资源"
+      "name": "暴风资源",
+      "detail": "http://bfzyapi.comm"
     },
       "911ysw": {
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "name": "天亦资源"
+      "name": "天亦资源",
+      "detail": "www.911ysw.to/"
     },
       "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "量子资源"
+      "name": "量子资源",
+      "detail": "https://cj.lziapi.com"
     },
        "fenwe": {
       "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-      "name": "四圈影视"
+      "name": "四圈影视",
+     "detail": "https://pg.fenwe078.cf"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
