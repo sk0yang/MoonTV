@@ -6,6 +6,13 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+      "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播采集"
+    },
+     "bdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "点播资源"
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
@@ -19,6 +26,22 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+     "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "name": "极速资源"
+    },
+      "911ysw": {
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "name": "天亦资源"
+    },
+      "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源"
+    },
+       "fenwe": {
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+      "name": "四圈影视"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
@@ -31,6 +54,18 @@
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/xml",
+      "name": "淘片资源"
+    },
+      "yzzy": {
+      "api": "https://api.yzzy-api.com/inc/api.php",
+      "name": "柚子资源"
+    },
+      "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
     },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
